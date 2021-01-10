@@ -1,0 +1,12 @@
+.footer__bg {
+  min-height: 25vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #495057;
+}
+
+.footer__text {
+  color: #fff !important;
+}
